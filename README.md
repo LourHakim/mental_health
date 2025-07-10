@@ -49,3 +49,7 @@ The datasets were merged using the `sitename` variable, which maps each student 
 - Categorical: sex, race, grade
 - Ordinal: Q84, breakfast frequency
 - Numeric: age, BMI, GDP, income
+
+### Research Questions
+1. How accurately can we predict mental health risk among U.S. high school students using a combination of behavioral, demographic, and state-level economic variables?
+2. How and which behavioral and socioeconomic factors  such as bullying, sleep, household income, and unemployment are associated with reported sadness or suicidal thoughts among U.S. high school students?
